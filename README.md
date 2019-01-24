@@ -139,3 +139,46 @@ execution
         - it works! nice
     8. Conclusion:
         - A fairly simple reversing project that has multiple components!
+
+## Lesson 4
+
+### Legality of Reverse Engineering
+
+- US Constitution: Contains basis of copyright/patent law. Copyright:
+    - Owner exclusive rights to reproduce, derivatives, distribute, publicly perform/display work
+    - Limits rights to 10 years + one renewal
+    - Different from patent/trade secrets (trade secrets can be kept forever)
+    - Rev eng makes trade secrets weak protection.
+- Fair Use Doctrine
+    - Limits copyright law: Full/partial copying allowed for academic use, research, criticism,
+    non-profit
+    - Nothing explicit about rev eng.
+- DMCA
+    - Explicitly allows software rev eng to achieve interoperability
+    - Explicitly prohibits circumventing copyright protection except for interop, security research,
+    encryption research, evaluation by education institutions
+    - Allow circumvention for Gov't investigations, regulatory purposes, protection of privacy
+- 'Shrink-wrap' License Agreements
+    - EULA often prevents reverse engineering. Voluntarily undertaken.
+    - Happens to be essentially non-enforcable in EU.
+    - In US usually governed by State Law (where you buy it). Not particularly enforcable in US but
+    sometimes...
+    - Usually RE itself breaking shrinkwrap agreements not really enforcable, but more dangerous
+    when coupled with other violations
+- Semiconductor Chip Protection Act
+    - Similar to DMCA for hardware.
+- Legal Precendent: Kewanee Oil v. Bicron (1974)
+    - Reverse engineering of a crystal to detect radiation by ex-employees
+    - Some non-disclosure agreements was signed
+    - Supreme Court defined reverse engineering.
+    - Highlighted that reverse engineering makes trade secret law weaker than patent law.
+    - Later on (2014) it was determined that software code does not meet requirements to be patented.
+- Legal Precedent: Bonito Bots v. Thunder Craft (1989)
+    - Duplication of boat hulls
+    - What was done was not patented/not patentable. (?) Rev eng was ok.
+- Legal Precedent: Cohen & Lemley, supra note 12, at 30-35
+    - By purchasing a manufactured product, the owner acquires the right to use it. Reverse engineering
+    does not violate patent rights.
+- Legal Precedent: Sega vs. Accolade (1992)
+    - Legality determined by purpose and character of use, benefit to public (?)
+    - Nature of copyrighted work. Some anti-competitive clauses?
